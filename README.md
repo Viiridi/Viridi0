@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-My username's Viridi, but I also go by Iestyn,
+My username's Viridi, but I also go by Iestyn
 - I’m a computer science student currently working as an SDET
 - This profile should contain all past and present projects I am working on or involved in
